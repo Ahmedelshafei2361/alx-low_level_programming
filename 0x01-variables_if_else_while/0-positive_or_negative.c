@@ -3,7 +3,9 @@
 #include <stdio.h>
 /**
  * main - assigns a random number to the variable n each time it is executed
- * and prints whether the number stored in the variable n is positive or negative
+ * and prints whether the number stored
+ * in the variable n is positive or negative
+ *
  *
  * Return: Always 0 (Success)
  */
@@ -13,7 +15,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* your code goes here */
+
 	if (n > 0)
 	{
 		printf("%d is positive\n", n);
