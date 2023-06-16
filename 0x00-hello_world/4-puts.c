@@ -4,5 +4,5 @@ int main (void)
 {
 	char name[]="\"Programming is like building a multilingual puzzle";
 	puts(name);
-	retrun 0;
+	return 0;
 }
