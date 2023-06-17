@@ -15,8 +15,9 @@ int main(void)
 		if (as == 'q' || as == 'e')
 		{
 			continue;
-		putchar(as);
 		}
+		putchar(as);
+		
 	}
 		return (0);
 }
