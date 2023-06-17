@@ -12,7 +12,7 @@ int main(void)
 
 	for (as = 'a'; as <= 'z'; as++)
 	{
-		if (as == q || as == e)
+		if (as == 'q' || as == 'e')
 		{
 			continue;
 		putchar(as);
