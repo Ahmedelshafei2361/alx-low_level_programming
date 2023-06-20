@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- *main - prints the shown text 
+ *main - prints the shown text
  *
  *Return: Always 1 (Error)
  */
