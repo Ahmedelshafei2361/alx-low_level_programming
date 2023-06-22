@@ -26,15 +26,3 @@ void jack_bauer(void)
 		}
 	}
 }
-/**
- * main - prints every minute of the day in
- * 00:00 formula
- *
- * Return: 0
- */
-int main(void)
-{
-	jack_bauer();
-
-	return (0);
-}
